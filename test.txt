@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 first
 second
 third
+=======
+>>>>>>> parent of 2486bbc... change test.txt
